@@ -137,6 +137,7 @@ python src/Work2/main.py
 ### 运行效果演示
 
 ![实验一演示](work0.gif)
+https://work0.gif
 
 ### 功能说明
 
@@ -191,6 +192,8 @@ python src/Work2/main.py
 ### 运行效果演示
 
 ![实验二演示](work1.gif)
+https://work1.gif
+
 
 ---
 
@@ -230,6 +233,7 @@ python src/Work2/main.py
 ### 运行效果演示
 
 ![实验三演示](work2.gif)
+https://work2.gif
 
 ---
 
