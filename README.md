@@ -10,35 +10,37 @@
 
 ---
 ## 项目结构（src 布局）
+```bash
 CG-Lab/
 ├── src/
-│ ├── Work0/ # 实验一：粒子系统
-│ │ ├── init.py
-│ │ ├── config.py # 配置参数
-│ │ ├── physics.py # 物理计算
-│ │ └── main.py # 主程序入口
-│ ├── Work1/ # 实验二：三角形旋转
-│ │ ├── init.py
-│ │ ├── main.py # 主程序入口
-│ │ └── transform.py # 变换矩阵实现
-│ ├── Work2/ # 实验二（选做）：3D立方体旋转
-│ │ ├── init.py
-│ │ ├── main.py # Pygame版本主程序
-│ │ └── transform.py # NumPy变换矩阵
-│ ├── Work3/ # 实验三：贝塞尔曲线
-│ │ ├── init.py
-│ │ └── main.py # 主程序入口
-│ └── Work4/ # 实验三（选做）：反走样+B样条
-│ ├── init.py
-│ └── main.py # 主程序入口
+│   ├── Work0/  # 实验一：粒子系统
+│   │   ├── __init__.py
+│   │   ├── config.py  # 配置参数
+│   │   └── main.py    # 主程序入口
+│   ├── Work1/  # 实验二：三角形旋转
+│   │   ├── __init__.py
+│   │   └── main.py    # 主程序入口
+│   ├── Work2/  # 实验二(选做)：3D立方体旋转
+│   │   ├── __init__.py
+│   │   ├── main.py    # Pygame版本主程序
+│   │   └── transform.py  # NumPy变换矩阵
+│   ├── Work3/  # 实验三：贝塞尔曲线
+│   │   ├── __init__.py
+│   │   └── main.py    # 主程序入口
+│   └── Work4/  # 实验三(选做)：反走样+B样条
+│       ├── __init__.py
+│       └── main.py    # 主程序入口
+├── physics.py   # 物理计算
+├── transform.py # 变换矩阵实现
 ├── .gitignore
 ├── pyproject.toml
 ├── README.md
-├── work0.gif # 实验一演示动图
-├── work1.gif # 实验二演示动图
-├── work2.gif # 实验二（选做）演示动图
-├── work3.gif # 实验三演示动图
-└── work4.gif # 实验三（选做）演示动图
+├── work0.gif   # 实验一演示动图
+├── work1.gif   # 实验二演示动图
+├── work2.gif   # 实验二(选做)演示动图
+├── work3.gif   # 实验三演示动图
+└── work4.gif   # 实验三(选做)演示动图
+```
 ---
 
 ## 运行方法
