@@ -11,6 +11,7 @@
 ---
 
 ## 项目结构（src 布局）
+
 CG-Lab/
 ├── src/
 │ ├── Work0/ # 实验一：粒子系统
@@ -27,8 +28,10 @@ CG-Lab/
 │ │ ├── main.py # Pygame版本主程序
 │ │ └── transform.py # NumPy变换矩阵
 │ ├── Work3/ # 实验三：贝塞尔曲线
+│ │ ├── init.py
 │ │ └── main.py # 主程序入口
 │ └── Work4/ # 实验三（选做）：反走样+B样条
+│ ├── init.py
 │ └── main.py # 主程序入口
 ├── .gitignore
 ├── pyproject.toml
