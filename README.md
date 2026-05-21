@@ -1,12 +1,3 @@
-好的，我来补全运行方法部分。以下是完整的 README，包含了三个实验的详细运行方法：
-
-```powershell
-code README.md
-```
-
-**复制以下完整内容：**
-
-```markdown
 # CG-Lab 计算机图形学课程作业
 
 ## 学生信息
@@ -16,8 +7,6 @@ code README.md
 - **课程**：计算机图形学
 - **教师**：张鸿文
 - **助教**：张怡冉
-
----
 
 ## 实验一：图形学开发工具
 
@@ -137,7 +126,6 @@ python src/Work2/main.py
 ### 运行效果演示
 
 ![实验一演示](work0.gif)
-https://work0.gif
 
 ### 功能说明
 
@@ -192,9 +180,6 @@ https://work0.gif
 ### 运行效果演示
 
 ![实验二演示](work1.gif)
-https://work1.gif
-
-
 ---
 
 ## 实验三：3D 立方体透视旋转（选做）
@@ -233,8 +218,6 @@ https://work1.gif
 ### 运行效果演示
 
 ![实验三演示](work2.gif)
-https://work2.gif
-
 ---
 
 ## 实验任务完成情况
