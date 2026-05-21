@@ -64,7 +64,7 @@ text
 
 运行效果演示
 实验一：粒子系统
-<video src="work1.mp4" controls width="700"></video>
+📹 [点击播放实验一演示视频](work1.mp4)
 
 功能说明
 万有引力模拟：粒子之间根据距离和质量产生引力
@@ -116,7 +116,7 @@ v2: (-2.0, 0.0, -2.0)
 
 运行效果演示
 实验二：三角形旋转
-<video src="work2.mp4" controls width="700"></video>
+📹 [点击播放实验二演示视频](work2.mp4)
 
 实验三：3D 立方体透视旋转（选做）
 实现方式
@@ -155,7 +155,7 @@ ESC	退出程序
 
 运行效果演示
 实验三：3D立方体旋转
-<video src="work3.mp4" controls width="700"></video>
+📹 [点击播放实验三演示视频](work3.mp4)
 
 实验任务完成情况
 实验一
