@@ -262,6 +262,39 @@ uv run -m src.Work5.main
 
 ![实验四演示](work5.gif)
 
+## 实验四（选做）：Blinn-Phong 光照模型 + 硬阴影
+
+### 实验目标
+
+- 实现 Blinn-Phong 光照模型（半程向量 H）
+- 实现硬阴影效果（Shadow Ray）
+- 对比 Phong 与 Blinn-Phong 的高光差异
+
+### 运行方法
+
+```bash
+uv run -m src.Work6.main
+```
+### 交互操作
+
+| 按键 | 功能 |
+|------|------|
+| Q | 增加环境光 (Ka) |
+| A | 减少环境光 (Ka) |
+| W | 增加漫反射 (Kd) |
+| S | 减少漫反射 (Kd) |
+| E | 增加高光 (Ks) |
+| D | 减少高光 (Ks) |
+| R | 增加高光指数 (Shininess) |
+| F | 减少高光指数 (Shininess) |
+| P | 切换 Phong / Blinn-Phong 模型 |
+| H | 切换阴影 开/关 |
+| ESC | 退出程序 |
+
+### 运行效果演示
+
+![实验四选做演示](work6.gif)
+
 ## 实验任务完成情况
 
 ### 实验一
@@ -317,6 +350,14 @@ uv run -m src.Work5.main
 - [x] 深度测试与遮挡关系处理
 - [x] Phong 光照模型实现（环境光+漫反射+高光）
 - [x] 键盘交互控制（Ka/Kd/Ks/Shininess）
+- [x] Git 代码托管（GitHub + README + 演示动图）
+
+### 实验四（选做）
+
+- [x] Blinn-Phong 光照模型实现
+- [x] 硬阴影实现（Shadow Ray）
+- [x] Phong / Blinn-Phong 模式切换（P键）
+- [x] 阴影开关（H键）
 - [x] Git 代码托管（GitHub + README + 演示动图）
 
 ---
